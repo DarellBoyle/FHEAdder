@@ -160,7 +160,3 @@ BSD-3-Clause-Clear. See [LICENSE](./LICENSE).
 Built with ❤️ by the ZAMA team.
 Check the [FHEVM Quick Start Tutorial](https://docs.zama.ai) or open an issue.
 
----
-
-Let me know if you'd like this as a downloadable file or pushed directly to your repo.
-
